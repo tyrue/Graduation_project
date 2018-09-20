@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Initialize
+  - Life1
+  - Life2
+  - Life3
+  - Life4
+  - Light
+  - pauseMenu
+  - player
+  - barPlayer
+  - finishLine
+  - destination_01
+  - destination_02
+  - destination_03
+  - slope_01
+  - sound_01
+  - slope_02
+  - sound_02
+  - slope_03
+  - slope_04
+  - slope_05
+  - slope_06
+  - slope_07
+  - slope_08
+  - slope_09
+  - slope_10
+  - fail_color
+  - test
+  - unitychan
+  - img
+  - enemy
+  - corner
+  - corner1
+  - corner3
+  - corner4
+  - corner2
+  - gun
+  - rotation_01
+  - bird_01
+  - RotateCamera
+  - RotateCamera_Real
+  - RotateCamera_RealReal
+  - rocket
+  - target
+  - target (1)
+  - target (2)
+  - target (3)
+  - rotation_02
+  - rotation_03
+  - rotation_04
+  - Total_01
+  - Total_02
+  - RTotal_01
+  - RTotal_02
+  - RTotal_03
+  - RTotal_04
+  - STotal_01
+  - STotal_02
+  - STotal_03
+  - STotal_04
+  - STotal_05
+  - STotal_06
+  - STotal_07
+  - button_replay
+  - button_back
+  - button_menu
+  - button_start
+  - button_manuel
+  - button_exit
+  - button_backgame
+  - button_replaygame1
+  - button_replaygame3
+  - button_manual_leg
+  - button_manual_waist
+  - button_manual_arm
+  - button_restart
+  - button_goon
+  - fake_target
+  - button_howto
+  - InitializingRocket
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
