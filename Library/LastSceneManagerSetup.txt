@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/gameRope/Scene/manual.unity
+  isLoaded: 1
+  isActive: 1

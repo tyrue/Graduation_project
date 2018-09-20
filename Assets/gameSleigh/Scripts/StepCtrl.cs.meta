@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bfd40f9e82509a842b3f655acafedb25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bullet: {instanceID: 0}
+  - muzzle: {instanceID: 0}
+  - fireSfx: {instanceID: 0}
+  - reloadSfx: {instanceID: 0}
+  - UIObj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
