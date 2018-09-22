@@ -1,5 +1,5 @@
 ---
-typora-copy-images-to: img
+typora-copy-images-to: ..\..\자주 쓰는 것들\학교 문서들\4학년\2학기\졸업작품\img
 ---
 
 # 다중 무선 컨트롤러를 이용한 VR 노인  재활 근력 운동 (VR Rehabilitation Exercise development for Elderly people’s muscle using multiple wireless controllers)
